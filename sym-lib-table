@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name 0451002_MRL)(type Legacy)(uri ${KIPRJMOD}/libraries/lib_dcm/0451002_MRL.lib)(options "")(descr ""))
+  (lib (name MC34063ACD-TR)(type Legacy)(uri ${KIPRJMOD}/libraries/lib_dcm/MC34063ACD-TR.lib)(options "")(descr ""))
+  (lib (name perso)(type Legacy)(uri ${KIPRJMOD}/libraries/lib_dcm/perso.lib)(options "")(descr ""))
+  (lib (name TC33X-2-203E)(type Legacy)(uri ${KIPRJMOD}/libraries/lib_dcm/TC33X-2-203E.lib)(options "")(descr ""))
+)

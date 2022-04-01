@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N3905_copy
+D -0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92
+K PNP Transistor
+F https://www.nteinc.com/specs/original/2N3905_06.pdf
+$ENDCMP
+#
+$CMP SST2907AHZGT116
+K PNP Transistor
+$ENDCMP
+#
+#End Doc Library
